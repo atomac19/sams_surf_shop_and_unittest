@@ -1,4 +1,4 @@
-# Sam's Surf Shop project
+# Sam's Surf Shop Project
 
 ## Description
 This project is exercise my knowledge of errors and unit testing practice in Python.
@@ -9,6 +9,7 @@ When that was done, I implement some improvements for thes tests using more adva
   - skipping
   - parameterization
   - expected failures.
+
 Finally, I fix bugs that were exposed by my tests.
 
 ## Techonologies
